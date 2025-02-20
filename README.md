@@ -34,7 +34,7 @@ For any suggestions and contributions, do not hesitate to email me.
 
 ## Tests
 
-At the root, run:  npm run start:dev
+At the root, run =>  npm run start:dev
 
 ## Questions 
 
