@@ -7,7 +7,6 @@ The goal of this application is to fetch data from OpenFDA API about medications
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributions](#contributions)
 - [License](#license)
 - [Badge](#badge)
@@ -16,10 +15,6 @@ The goal of this application is to fetch data from OpenFDA API about medications
 ## Installation
 
 Express, Sequelize, and  MySQL - Postgres
-
-
-## Usage
- It is available for use
 
 ## License
 
@@ -38,4 +33,4 @@ At the root, run =>  npm run start:dev
 
 ## Questions 
 
-[Email me](mailto:raheemsenegal@outlook.com) or you can find me at my [GitHub](github.com/rs0579).
+[Email me] Questions or feedback? Email me at Calebc041406@gmail.com, or find my GitHub account at github.com/CalebColangelo
